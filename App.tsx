@@ -1,9 +1,9 @@
-import Laytout from './src/navigation/laytout';
+import Layout from './src/navigation/layout';
 
 function App() {
   return (
     <>
-      <Laytout />
+      <Layout />
     </>
   );
 }
